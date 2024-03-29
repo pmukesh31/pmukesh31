@@ -1,6 +1,6 @@
 ![Header](./githubheader.png)
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
-<h3 align="center">A hungry and passionate Full Stack Developer 🧑‍💻 ,Programmer ⌨️ and Gym Enthusiast ! 🏃</h3>
+<h3 align="center">A passionate and hungry Full Stack Developer 🧑‍💻 ,Programmer ⌨️ and Gym Enthusiast ! 🏃</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pmukesh31&label=Profile%20views&color=0e75b6&style=flat" alt="pmukesh31" /> </p>
 
